@@ -1,0 +1,46 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{85A50284-777A-21D8-A1CC-7B39FF3DA22F}") = "Zhanu Zombie Toys", "Assembly-CSharp-vs.csproj", "{A9A3FD63-2403-079F-214D-95B15A50A829}"
+EndProject
+Project("{85A50284-777A-21D8-A1CC-7B39FF3DA22F}") = "Zhanu Zombie Toys", "Assembly-CSharp-Editor-vs.csproj", "{D6B09C8B-82D6-5964-0E48-F595544D5394}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A9A3FD63-2403-079F-214D-95B15A50A829}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9A3FD63-2403-079F-214D-95B15A50A829}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9A3FD63-2403-079F-214D-95B15A50A829}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9A3FD63-2403-079F-214D-95B15A50A829}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D6B09C8B-82D6-5964-0E48-F595544D5394}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6B09C8B-82D6-5964-0E48-F595544D5394}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6B09C8B-82D6-5964-0E48-F595544D5394}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6B09C8B-82D6-5964-0E48-F595544D5394}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+		GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+		Policies = $0
+		$0.TextStylePolicy = $1
+		$1.inheritsSet = null
+		$1.scope = text/x-csharp
+		$0.CSharpFormattingPolicy = $2
+		$2.inheritsSet = Mono
+		$2.inheritsScope = text/x-csharp
+		$2.scope = text/x-csharp
+		$0.TextStylePolicy = $3
+		$3.FileWidth = 120
+		$3.TabWidth = 4
+		$3.IndentWidth = 4
+		$3.EolMarker = Unix
+		$3.inheritsSet = Mono
+		$3.inheritsScope = text/plain
+		$3.scope = text/plain
+	EndGlobalSection
+
+EndGlobal
